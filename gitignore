@@ -1,0 +1,41 @@
+#
+# Generic
+#
+*.zip
+*.sql
+*.tgz
+*.gz
+*~
+*.swp
+.svn
+*.tar
+
+#
+# MAC Shit
+#
+.DS_Store
+*.db
+
+#
+# npm / gulp
+#
+node_modules/
+npm-debug.log
+
+#
+# IDE stuff
+#
+## NetBeans
+.idea/
+
+## Eclipse
+.buildpath
+.project
+.settings/
+
+## Sublime
+*.sublime-workspace
+*.sublime-project
+
+## Atom
+.atom/
